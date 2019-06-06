@@ -1,0 +1,11 @@
+﻿  Bulbasaur.cpp
+  Charmander.cpp
+  Pokemon.cpp
+C:\Users\Bob Loth\OneDrive - Contra Costa Com College District\COMSC Second Year\COMSC 200\SemesterProject200\Pokemon.cpp(35): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+  Source.cpp
+C:\Users\Bob Loth\OneDrive - Contra Costa Com College District\COMSC Second Year\COMSC 200\SemesterProject200\Source.cpp(15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Squirtle.cpp
+  pikachu.cpp
+C:\Users\Bob Loth\OneDrive - Contra Costa Com College District\COMSC Second Year\COMSC 200\SemesterProject200\pikachu.cpp(23): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  SemesterProject200.vcxproj -> C:\Users\Bob Loth\OneDrive - Contra Costa Com College District\COMSC Second Year\COMSC 200\SemesterProject200\Debug\SemesterProject200.exe
